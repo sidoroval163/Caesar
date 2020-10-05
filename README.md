@@ -1,4 +1,4 @@
-# ceasar
+# Caesar
 
 
 $ git clone *этот репозиторий*
