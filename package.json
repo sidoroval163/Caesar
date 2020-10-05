@@ -1,0 +1,9 @@
+{
+    "name": "caesar",
+    "version": "0.1.0",
+    "dependencies": {
+        "commander": "^6.1.0"
+    },
+    "author": "",
+    "license": "MIT"
+}
